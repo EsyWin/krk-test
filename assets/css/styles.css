@@ -84,7 +84,7 @@ body {
   border-radius: 16px;
   filter: blur(11px);
   transform: translateZ(-1px); /*or z-index */
-  animation: rgb 0.4s linear infinite;
+  animation: rgb 1s linear infinite;
 }
 @keyframes rgb {
   0% {
