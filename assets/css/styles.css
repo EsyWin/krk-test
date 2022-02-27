@@ -48,7 +48,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("../assets/img/background.jpg");
+  background: url("../../assets/img/background.jpg");
   background-size: cover;
   overflow: hidden;
 }
@@ -103,7 +103,7 @@ body {
 .card-image {
   grid-area: image;
   background: linear-gradient(#fff0 0%, #fff0 70%, #1d1d1d 100%),
-    url("../assets/img/preview.png");
+    url("../../assets/img/preview.png");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -143,7 +143,7 @@ body {
 
 /*card2*/
 .card-image.card2 {
-  background: url("../assets/img/coin.png");
+  background: url("../../assets/img/coin.png");
   background-size: cover;
 }
 .card-text.card2 .date {
@@ -159,7 +159,7 @@ body {
 /*card3*/
 .card-image.card3 {
   background: linear-gradient(#fff0 0%, #fff0 70%, #1d1d1d 100%),
-    url("../assets/img/img3.jpg");
+    url("../../assets/img/img3.jpg");
   background-size: cover;
 }
 .card-text.card3 .date {
@@ -199,7 +199,7 @@ footer > div#copy > span > a {
 }
 
 .bg {
-  background: url("../assets/img/background.jpg") no-repeat;
+  background: url("../../assets/img/background.jpg") no-repeat;
   background-size: cover;
   height: 100%;
   width: 100%;
