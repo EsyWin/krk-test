@@ -1,31 +1,39 @@
 @font-face {
   font-family: "pixel high";
-  src: url("../../assets/font/pixelhigh-webfont.woff2") format("woff2"),
-    url("../../assets/font/pixelhigh-webfont.woff") format("woff");
+  src: url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelhigh-webfont.woff2")
+      format("woff2"),
+    url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelhigh-webfont.woff")
+      format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "pixel mid";
-  src: url("../../assets/font/pixelmiddle-webfont.woff2") format("woff2"),
-    url("../../assets/font/pixelmiddle-webfont.woff") format("woff");
+  src: url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelmiddle-webfont.woff2")
+      format("woff2"),
+    url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelmiddle-webfont.woff")
+      format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "pixel small";
-  src: url("../../assets/font/pixelsmall-webfont.woff2") format("woff2"),
-    url("../../assets/font/pixelsmall-webfont.woff") format("woff");
+  src: url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelsmall-webfont.woff2")
+      format("woff2"),
+    url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelsmall-webfont.woff")
+      format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "pixel small v2";
-  src: url("../../assets/font/pixelsmall_v2-webfont.woff2") format("woff2"),
-    url("../../assets/font/pixelsmall_v2-webfont.woff") format("woff");
+  src: url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelsmall_v2-webfont.woff2")
+      format("woff2"),
+    url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelsmall_v2-webfont.woff")
+      format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -48,7 +56,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("../img/background.jpg");
+  background: url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/img/background.jpg");
   background-size: cover;
   overflow: hidden;
 }
@@ -103,7 +111,7 @@ body {
 .card-image {
   grid-area: image;
   background: linear-gradient(#fff0 0%, #fff0 70%, #1d1d1d 100%),
-    url("../img/preview.png");
+    url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/img/preview.png");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -143,7 +151,7 @@ body {
 
 /*card2*/
 .card-image.card2 {
-  background: url("../img/coin.png");
+  background: url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/img/coin.png");
   background-size: cover;
 }
 .card-text.card2 .date {
@@ -159,7 +167,7 @@ body {
 /*card3*/
 .card-image.card3 {
   background: linear-gradient(#fff0 0%, #fff0 70%, #1d1d1d 100%),
-    url("../img/img3.jpg");
+    url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/img/img3.jpg");
   background-size: cover;
 }
 .card-text.card3 .date {
@@ -199,7 +207,8 @@ footer > div#copy > span > a {
 }
 
 .bg {
-  background: url("../img/background.jpg") no-repeat;
+  background: url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/img/background.jpg")
+    no-repeat;
   background-size: cover;
   height: 100%;
   width: 100%;
