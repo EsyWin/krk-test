@@ -1,39 +1,31 @@
 @font-face {
   font-family: "pixel high";
-  src: url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelhigh-webfont.woff2")
-      format("woff2"),
-    url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelhigh-webfont.woff")
-      format("woff");
+  src: url("../../assets/font/pixelhigh-webfont.woff2") format("woff2"),
+    url("../..assets/font/pixelhigh-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "pixel mid";
-  src: url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelmiddle-webfont.woff2")
-      format("woff2"),
-    url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelmiddle-webfont.woff")
-      format("woff");
+  src: url("../../assets/font/pixelmiddle-webfont.woff2") format("woff2"),
+    url("../../assets/font/pixelmiddle-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "pixel small";
-  src: url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelsmall-webfont.woff2")
-      format("woff2"),
-    url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelsmall-webfont.woff")
-      format("woff");
+  src: url("../../assets/font/pixelsmall-webfont.woff2") format("woff2"),
+    url("../../assets/font/pixelsmall-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "pixel small v2";
-  src: url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelsmall_v2-webfont.woff2")
-      format("woff2"),
-    url("https://github.com/EsyWin/cdn/blob/af0d104f4734c078d58ca36d368bad6548d63c20/krk/assets/font/pixelsmall_v2-webfont.woff")
-      format("woff");
+  src: url("../../assets/font/pixelsmall_v2-webfont.woff2") format("woff2"),
+    url("../../assets/font/pixelsmall_v2-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
